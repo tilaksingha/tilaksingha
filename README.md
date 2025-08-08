@@ -1,71 +1,85 @@
-<!-- HEADER & BADGES -->
-<h1 align="center">Hi there, I'm **Tilak Singha** (XTREMER LIVE FF) 👋</h1>
-
+<!-- HEADER / BANNER -->
 <p align="center">
-  <a href="https://github.com/tilaksingha">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tilaksingha&color=blue" />
-  </a>
-  <a href="https://github.com/tilaksingha?tab=repositories">
-    <img alt="Repo count" src="https://img.shields.io/badge/Repos-%E2%80%A6-lightgrey" />
-  </a>
-  <br>
-  <a href="https://github.com/tilaksingha">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tilaksingha&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/tilaksingha">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilaksingha&theme=radical&layout=compact" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Tilak%20Singha&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- TAGLINE -->
+<h2 align="center">🚀 Aspiring Software Developer | Gamer | Tech Enthusiast</h2>
+<h4 align="center">Bridging creativity with code — from gameplay to complex software solutions.</h4>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tilaksingha&color=red" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-red" />
+  <img src="https://img.shields.io/badge/Open%20for%20Hire-Yes-green" />
 </p>
 
 ---
 
-##  Repositories & Projects
+## 🛠️ Skills & Technologies
 
-Here are my public repositories—click on any to explore:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,python,java,mysql,sqlite,git,github&perline=6" />
+</p>
 
-<!-- AUTO-UPDATED REPO LIST -->
+- **Languages:** C, C++, C#, Python, Java, HTML/CSS, JavaScript  
+- **Core Skills:** Data Structures & Algorithms (DSA), Database Management Systems (DBMS), SQL  
+- **Tools & Platforms:** Git, GitHub, MySQL, SQLite, VS Code, Visual Studio  
+- **Interests:** Game Development, Competitive Programming, Backend Development  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.youtube.com/@gabbarxcheat"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://twitter.com/singha_tilak"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/thetilaksingha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/singhatilak"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://guns.lol/gabbarxcheat"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tilaksingha&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tilaksingha&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilaksingha&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🎯 **Consistent learner** in modern programming practices  
+- 🎮 Developed interactive gaming projects & automation tools  
+- 💡 Passion for **clean, efficient, and scalable code**  
+- 📚 Always exploring **new technologies & frameworks**  
+
+---
+
+## 📂 Featured Repositories
+
 <!--START_SECTION:repos-->
-<!-- This section will be auto-populated using a GitHub Action -->
-<!-- For example:
-- [Music-] (https://github.com/tilaksingha/Music-) — Enhanced Telegram music bot (Python)
+- [Music-](https://github.com/tilaksingha/Music-) — Enhanced Telegram music bot (Python)
 - [WhatsGram](https://github.com/tilaksingha/WhatsGram) — WhatsApp userbot + Telegram integration (JavaScript)
--->
 <!--END_SECTION:repos-->
 
 ---
 
-##  About Me
+## 📬 Get in Touch
 
--  Bio: *Trusted person, but maybe slow to respond.*
--  Tags: `#aesthetic` & `100% TRUSTED`
--  Socials:
-  - [YouTube](https://www.youtube.com/@gabbarxcheat), [Twitter X](https://twitter.com/singha_tilak), [Instagram](https://www.instagram.com/thetilaksingha), [Facebook](https://www.facebook.com/singhatilak), [Website](https://guns.lol/gabbarxcheat)
+💌 Email: **tilaksingha815@gmail.com**  
+🌍 Location: Kolkata, India  
 
 ---
 
-##  How It Works
-
-1. **GitHub Action**  
-   Use a workflow (e.g., [`repo-list-updater`](https://github.com/abhisheknaiidu/awesome-github-profile-readme)) to auto-fetch your repos and insert them between `START_SECTION` / `END_SECTION`.
-
-2. **Dynamic Widgets**  
-   - `github-readme-stats` shows real-time repo stats and languages.  
-   - `ghpvc` badge displays profile view count.  
-   These tools boost readability and interactivity. 0
-
----
-
-##  Why This ReadMe Stands Out
-
-- **Dynamic & up-to-date** — Uses real-time widgets and automation to reflect your current activity.  
-- **Clean UI** — Badges, header, stats, and links make navigation intuitive.  
-- **Pro-level polish** — Similar structure seen in top GitHub profiles and templates.1
-
----
-
-###  Next Steps
-- Add the GitHub Action and enable it in your `tilaksingha/tilaksingha` repo.
-- Customize badges (colors, icons, themes) to match your style.
-- Optionally, include GIFs, trophies, or recent blog posts for extra flair.
-
-Let me know if you'd like help generating the GitHub Action file, styling tweaks, or infusing more dynamic widgets!2
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=100&section=footer"/>
+</p>
